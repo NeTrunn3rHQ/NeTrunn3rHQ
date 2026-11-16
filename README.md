@@ -46,6 +46,7 @@ I'm a developer transitioning into low-level security research, fascinated by ho
 - **C Programming:** Data structures, memory management and systems programming.
 - **Windows Internals Notes:** Technical notes and experiments exploring Windows architecture.
 - **Reverse Engineering:** C-to-assembly analysis and binary reconstruction exercises.
+- **Many more real world projects upcoming.**
 
 ### `05 // THE PHILOSOPHY`
 
