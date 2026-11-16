@@ -28,7 +28,7 @@ I'm a developer transitioning into low-level security research, fascinated by ho
 |---|---|
 | Programming | C, C++, Python |
 | Assembly | x86-64 |
-| Operating Systems | Windows Internals |
+| Operating Systems | Windows Internals, Kali Linux |
 | Debugging | WinDbg, GDB |
 | Development | Git, Linux, GCC |
 
