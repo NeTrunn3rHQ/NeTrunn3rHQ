@@ -54,8 +54,16 @@ I'm a developer transitioning into low-level security research, fascinated by ho
 
 <div align="center">
 
-`[ END OF TRANSMISSION ]`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=900&color=FCEE0A&center=true&vCenter=true&width=800&lines=%3E+NETRUNNER+SIGNING+OFF...;%3E+NEURAL+LINK+DISCONNECTED.;%3E+TRACE+ERASED.;%3E+SEE+YOU+IN+NIGHT+CITY." alt="Netrunner logout animation" />
 
 **BUILD // REVERSE // RESEARCH**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0B5,50:101820,100:FCEE0A&height=3&section=footer" width="100%" />
+
+</div>
+
 
 </div>
