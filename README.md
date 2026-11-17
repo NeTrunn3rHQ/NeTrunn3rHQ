@@ -2,7 +2,7 @@
 
 # `CHINMAY UNAKAL`
 
-**LOW-LEVEL SECURITY • REVERSE ENGINEERING • OFFENSIVE SECURITY**
+**LOW-LEVEL SECURITY • VULNERABILITY RESEARCH • REVERSE ENGINEERING • OFFENSIVE SECURITY**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00F0B5&center=true&vCenter=true&width=800&lines=Exploring+the+Windows+Kernel;Reverse+Engineering+%7C+Systems+Security;Understanding+what+happens+under+the+hood;Research.+Break.+Understand.+Repeat." alt="Typing animation" />
 
